@@ -3,7 +3,7 @@ Vendor Management System with Performance Metrics
 INITIAL SETUP
 
 Clone the repository:
-git clone https://github.com/codejahirx/Vendor-management-system.git
+git clonehttps://github.com/Abhicodes4/Vendor_mangement_system.git
 
 Navigate to the project directory:
 cd Vendor_Management_system
