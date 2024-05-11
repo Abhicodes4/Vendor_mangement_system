@@ -10,7 +10,7 @@ if django not installed
 type pip install django in terminal
 
 Clone the repository:
-git clonehttps://github.com/Abhicodes4/Vendor_mangement_system.git
+git clone https://github.com/Abhicodes4/Vendor_mangement_system.git
 
 Navigate to the project directory:
 cd Vendor_Management_system
