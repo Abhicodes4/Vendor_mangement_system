@@ -35,11 +35,10 @@ Run the development server using following command:
 python manage.py runserver
 
 
-
-
+------------------------------------
 
 Retrieve Vendor Performance:
 
-URL: /vendors/<int:pk>/performance/
+URL: 'GET/api/vendors/<str:vendor_id>/performance/
 Method: GET (Retrieve Vendor Performance)
 Authentication: Token Authentication required
